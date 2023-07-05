@@ -1,16 +1,28 @@
-# Data Science
+# Data Science - 3
 
-## Get Python for Data Science Certificate.
+## Online Retai
 
-https://www.sololearn.com/certificates/CT-VUPBQ7DO
-![cert-CT-VUPBQ7DO](https://github.com/MSaberian/PyLearnMachineLearning/assets/43343453/8578a533-d8ce-4b70-8dd6-cb22c7548ef5)
+Identify what exactly happened on April?
+Due to the inability to attract many new customers And the decrease in purchases of previous customers.
 
-## balloons 🎈 and melons 🍈
+## COVID-19 🦠
 
-Similar to the apples and bananas problem, generate a dataset of random numbers for balloons 🎈 and melons 🍈 problem using three features: length, width and weight. Plot the result in 3D.
+A. Print the names of the 8 countries with highest corona patients in the fourth month of 2020.
 
-![balloons and melons 2](https://github.com/MSaberian/PyLearnMachineLearning/assets/43343453/fa830716-bcb9-4644-8688-b93922a0f24b)
+![Screenshot 2023-07-03 173733](https://github.com/MSaberian/PyLearnDataScience/assets/43343453/637d3b9b-9ac5-4b80-ba6b-99f595a31214)
 
-## California cities
+B. Plot the death rate in Iran on different days.
 
-![Califurnia](https://github.com/MSaberian/PyLearnMachineLearning/assets/43343453/881fc91d-bc7e-4617-9912-0be74f14690e)
+![death](https://github.com/MSaberian/PyLearnDataScience/assets/43343453/4e143a45-9fdd-467f-a0e6-62f305a33f40)
+
+
+## DigiKala 📦
+
+A. Orders count per month (Plot).
+
+![digi](https://github.com/MSaberian/PyLearnDataScience/assets/43343453/a582a133-2e95-4631-9389-0090d7523a02)
+
+B. Customers count per city (Pie Plot).
+
+![digi_city](https://github.com/MSaberian/PyLearnDataScience/assets/43343453/fc72a523-1e8b-4057-9379-7255c825fe9b)
+
